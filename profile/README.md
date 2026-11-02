@@ -15,4 +15,4 @@ pictograph login
 pictograph agents install-skill   # Claude Code; `pictograph init` writes an AGENTS.md for Codex
 ```
 
-[Docs](https://pictograph.io/docs) · [Python SDK](https://github.com/pictograph-io/pictograph-sdk) · [PyPI](https://pypi.org/project/pictograph/) · [Hugging Face](https://huggingface.co/pictograph) · [Explore datasets and models](https://pictograph.io/explore) · [App](https://app.pictograph.io)
+[Docs](https://pictograph.io/docs) · [Python SDK](https://github.com/pictograph-io/pictograph-sdk) · [PyPI](https://pypi.org/project/pictograph/) · [Hugging Face](https://huggingface.co/pictograph) · [LinkedIn](https://www.linkedin.com/company/pictograph-io) · [Explore datasets and models](https://pictograph.io/explore) · [App](https://app.pictograph.io)
